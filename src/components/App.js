@@ -1,7 +1,7 @@
 import React from "react";
 import PageLayout from "./PageLayout";
 
-function App() {
+export default function App() {
   return (
     <PageLayout
       header={<h1>Welcome to my website</h1>}
